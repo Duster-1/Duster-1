@@ -80,6 +80,13 @@
     alt="NodeJS"
     width="40"
     height="36" /></a
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+    alt="TypeScript"
+    width="40"
+    height="36"
+/></a>
 >
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
   ><img
